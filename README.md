@@ -59,8 +59,8 @@
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lsroshini&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsroshini&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-nine-eta.vercel.app/api?username=lsroshini&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-nine-eta.vercel.app/api/top-langs/?username=lsroshini&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
